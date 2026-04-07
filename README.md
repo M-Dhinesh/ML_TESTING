@@ -1,4 +1,4 @@
-# ML Assignment 2 - Classification Models with Streamlit
+Classification Models with Streamlit
 
 ## Problem Statement
 Implement multiple classification models on the Wine Quality dataset, evaluate them using key metrics, and deploy an interactive Streamlit app.
