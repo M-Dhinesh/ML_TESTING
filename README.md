@@ -46,7 +46,7 @@ The following metrics were used to evaluate each model:
 
 ## Deployment
 - Streamlit App deployed on Streamlit Community Cloud.  
-- [Live App Link](https://your-streamlit-app-link)  
+- [Live App Link](https://classificationmodelswithapp.streamlit.app/)  
 
 ### Run Locally
 ```bash
